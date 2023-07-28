@@ -1,0 +1,1 @@
+export const BASE_URL = "https://nivi-url-shortener.onrender.com";
